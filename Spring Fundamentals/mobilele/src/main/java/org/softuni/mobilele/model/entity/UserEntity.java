@@ -15,7 +15,7 @@ public class UserEntity {
     private String firstName;
     private String lastName;
     private boolean isActive;
-    
+
 
     public Long getId() {
         return id;
